@@ -1,0 +1,10 @@
+---Estructura Landing Page---
+- Titulo: Terrenos Horizonte
+- header: "Tu Espacio Ideal Te Espera: ¡Compra Tu Terreno Hoy!"
+- img: imagen, boton CTA
+- nav: Indice
+- article: 
+	. Beneficios
+	. Galeria de imagenes
+	. Ubicacion
+- footer: Contactos, redes sociales
